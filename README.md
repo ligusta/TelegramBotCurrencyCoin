@@ -1,6 +1,6 @@
 # Pet Project: TelegramBotCurrencyCoin
 
-A bot in a telegram displaying the price of crypto coins.The price is requested from the currency coin API.<br/>
+A bot in a telegram displaying the price of crypto coins.The price is requested from the CoinMarketCap API.<br/>
 <br/>
 Link to Telegram bot: https://t.me/CryptoCurrencyCoinBot<br/>
 <br/>
